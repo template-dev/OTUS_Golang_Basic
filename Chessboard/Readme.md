@@ -39,8 +39,6 @@ Enter the height of the board: 8
 ---
 # Chessboard Generator (En)
 
-## English
-
 ### Description
 A program for creating ASCII-art chessboards of any specified size.
 
